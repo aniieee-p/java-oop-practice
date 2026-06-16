@@ -40,7 +40,7 @@ class Car {
 }
 
 // Public class that contains the main method
-public class Main {
+class Main {
     // Main method: starting point of Java program
     public static void main(String[] args) {
         // Create a Car object using the constructor with parameters

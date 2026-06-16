@@ -13,7 +13,7 @@ class MathOperation {
     public static void main(String[] args) {
         MathOperation obj = new MathOperation();
         System.out.println(obj.add(5, 10));
-        System.out.println()obj.add(5, 10, 1);
+        System.out.println(obj.add(5, 10, 1));
     }
 
 }

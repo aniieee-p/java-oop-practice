@@ -40,7 +40,7 @@ class Student {
 }
 
 // Public class that contains the main method
-public class Main {
+class Main {
     // Main method: starting point of Java program
     public static void main(String[] args) {
         // Create a Student object using the constructor with parameters

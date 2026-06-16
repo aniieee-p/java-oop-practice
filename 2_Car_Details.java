@@ -15,7 +15,7 @@ class Car {
 }
 
 // Public class that contains the main method (entry point of the program)
-public class Main {
+class Main {
     // Main method: starting point of Java program (executed first)
     public static void main(String[] args) {
         // Create an object of Car class and assign it to variable 'c'
