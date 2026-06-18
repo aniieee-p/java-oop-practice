@@ -21,9 +21,10 @@ class Book {
     }
 }
 
+@SuppressWarnings("unused")
 class BookDemo {
     public static void main(String[] args) {
-        Book b1 = new Book("Java Basics", "Jhon Doe", 450.50);
+        Book b1 = new Book("Java Basics", "pratham", 450.50);
         b1.displayDetails();
     }
 }
