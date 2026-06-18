@@ -47,7 +47,7 @@ static void changeCollege(String newCollege) {
     collegeName = newCollege;
 }
 }
-public class Main {
+public class StudentClass {
     public static void main(String args[]) {
         Student S1 = new Student("Anisha",1,"xyz");
         Student S2 = new Student("Aniee",2,"xyz");
