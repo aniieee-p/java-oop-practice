@@ -51,7 +51,7 @@ class Employee {
 
 }     
 
-public class EmployeeClass {
+public class EmployeeClass2 {
     public static void main ( String args[]) {
         // no argument
         Employee emp1 = new Employee(); 
